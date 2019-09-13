@@ -1,4 +1,4 @@
-#Introduction: Dissimilarity within species in Nymphalidae family  
+# Introduction: Dissimilarity within species in Nymphalidae family  
 
 The Nymphalidae family is one of the largest family of butterflies and the species within are found all across the globe. Does geography play a role in the diversity within species of the Nymphalidae family? This project will be looking at how dissimilar each member are within a species and where that species is located. For instance, a study was done on Pararge aegeria belonging to the Nymphalidae family where they were looking at how the local habitat, climate, and landscape affect its presence in the area. The question for this project will be regarded as a biological one where the main analysis comes from sequence alignment. This question can provide an important answer due to the current situation of climate change that is occurring. If there are locations that host a great diversity, they may be the first places to look at for conservation efforts. This project is primarily an exploratory project given the scale and number of species in the Nymphalidae family.  
 
